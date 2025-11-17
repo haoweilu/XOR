@@ -14,4 +14,4 @@ gtkwave xor_sim.vcd
 ```
 
 ## 波形圖
-![波形圖](images/waveform.png)
+![波形圖](XOR_simluation.png)
